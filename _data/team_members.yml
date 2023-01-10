@@ -9,14 +9,14 @@
   education4: Postdoctoral Fellowship Biozentrum, Basel, Switzerland, 1974
   education5: Fellow Canadian College of Physicists on Medicine, 1984
 
-- name: Dr Elvis Chen
+- name: <a href="https://chene.github.i">Dr Elvis Chen</a>
   photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
+  info: Assistant Professor, since 2009
+  email: chene@robarts.ca
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: BScH in Computer Science, Queen’s University, Canada
+  education2: MSc in Computer Science, Queen’s University, Canada
+  education3: PhD in Computer Science, Queen’s University, Canada
 
 - name: Jiasen Niu
   photo: Jiasen.png
