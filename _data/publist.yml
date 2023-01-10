@@ -1,10 +1,10 @@
-- title: "Determination of the charge transfer when tunneling into putative Majorana modes in individual vortices in FeTe0.55Se0.045"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "The Role of the Temporal Pole in Temporal Lobe Epilepsy: A Diffusion Kurtosis Imaging Study"
+  image: processed_tracts.png
+  description: This study aimed to evaluate the use of diffusion kurtosis imaging (DKI) to detect microstructural abnormalities within the temporal pole (TP) and its temporopolar cortex in temporal lobe epilepsy (TLE) patients.
+  authors: L Kasa, T Peters, S Mirsattari, MT Jurkiewicz, AR Khan, R Haast
   link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+    url: 10.1016/j.nicl.2022.103201
+    display: NeuroImage: Clinical 36(2)
   highlight: 1
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
