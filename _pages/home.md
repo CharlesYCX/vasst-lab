@@ -40,7 +40,7 @@ London, ON, Canada N6A 5K8
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neurosurgery.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_cardiac_surgery" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_cardiac_surgery.jpeg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_mixed_reality.jpeg" alt="Slide 4" />
