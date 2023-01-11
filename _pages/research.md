@@ -8,6 +8,29 @@ permalink: /research/
 
 # Research
 
+## Objective
+The goal of any ideal image-guided surgery system is to report the position of an intra-operative tool within the brain, heart or other organ with perfect accuracy. However, most image-guided surgery systems use preoperative image information, and their accuracy is affected by many factors. Such factors include:
+* Geometrical inaccuracy of images
+* Organ and tissue shift between imaging and surgery
+* The inability to visualize all of the required information in a single image
+* Tracking of instruments with respect to human organs
+* The surgeons’ interpretation of the information displayed
+We are addressing these problems through research aimed at integrating intra-operative 3-D ultrasound with MRI during surgical guidance, the development of electrophysiological atlases to guide the surgeon during deep brain surgery, the use of computer simulations to guide minimally invasive cardiac and abdominal surgery; the integration of endoscopic images with the previously acquired 3-D volumes; and the development of virtual-reality visualization systems that can present these composite images to the surgeon in the operating room in a simple and intuitive fashion.
+
+## Technology
+
+### Software
+
+**Echelon**
+Echelon is an image guidance platform based on the Atamai Viewer, specifically designed specifically for real-time intracardiac IGS.
+A paired-down version of Echelon is licensed to NeoChord (under the name ‘NeoNav’) for use in their image guidance system.
+
+**Slicer**
+The Peters' group members make extensive use of 3D Slicer (http://www.slicer.org) for image segmentation, registration, fusion and processing. Applications include DTI analysis, image-guidance for cardiac and neurosurgery procedures, MR/ultrasound fusion, machine learning and more.
+
+
+# Research
+
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
