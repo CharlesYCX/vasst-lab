@@ -12,13 +12,18 @@ Dr. Peters' laboratory for <b>Virtual Augmentation and Simulation for Surgery an
 VASST Lab is focused on minimally invasive procedures as they are applied to:
  
  • The brain
+ 
  • The beating heart
+ 
  • The liver, kidney, and prostate
  
 
  Imaging Research Laboratories
+ 
  [Robarts Reseach Institute at Western University](https://www.robarts.ca/peterslab/)
+ 
  P.O. Box 5015 100 Perth Drive
+ 
  London, ON, Canada N6A 5K8
 
 
