@@ -11,12 +11,13 @@
 
 - name: <a href="https://chene.github.io">Dr Elvis Chen</a>
   photo: Dr_Elvis_Chen.jpeg
-  info: Assistant Professor, since 2009
+  info: Assistant Professor, Robarts scientist since 2009
   email: chene@robarts.ca
   number_educ: 3
-  education1: PhD - Computer Science, Queen’s University, Canada
-  education2: MSc - Master of Computer Science, Queen’s University, Canada
-  education3: BScH - Bachelor of Computer Science, Queen’s University, Canada
+  education1: Professor Biomedical Engineering, Medical Biophysics
+  education2: PhD - Computer Science, Queen’s University, Canada, 2007
+  education3: MSc - Master of Computer Science, Queen’s University, Canada
+  education4: BScH - Bachelor of Computer Science, Queen’s University, Canada
 
 - name: <a href="https://medicreate.cs.queensu.ca/all-students/joeana-cambranis-romero/">Joeana Romero</a>
   photo: Joeana_Cambranis_Romero.jpeg
