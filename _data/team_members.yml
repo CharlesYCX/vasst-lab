@@ -14,9 +14,9 @@
   info: Assistant Professor, since 2009
   email: chene@robarts.ca
   number_educ: 3
-  education1: BScH in Computer Science, Queen’s University, Canada
-  education2: MSc in Computer Science, Queen’s University, Canada
-  education3: PhD in Computer Science, Queen’s University, Canada
+  education1: BScH - Computer Science, Queen’s University, Canada
+  education2: MSc - Computer Science, Queen’s University, Canada
+  education3: PhD - Computer Science, Queen’s University, Canada
 
 - name: <a href="https://medicreate.cs.queensu.ca/all-students/joeana-cambranis-romero/">Joeana Romero</a>
   photo: Jiasen.png
@@ -32,16 +32,16 @@
   email: jwlee0421@postech.ac.kr
   number_educ: 2
   education1: MEsc Master of Engineering Science, Western University
-  education2: BSc in Computer Science, Western University
+  education2: BSc - Computer Science, Western University
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
+- name: Shuwei Xing
+  photo: Shuwei_Xing.jpeg
+  info: PhD, started September 2020
+  email: shuwei
+  number_educ: 3
+  education1: PhD Doctor of Philosophy - Biomedical Engineering, Western University, Canada, 2024
+  education2: MSc - Biomedical Engineering, Tsinghua University, China, 2019
+  education3: BSc - Electrical Engineering and Automation, Northeast Electric Power University, China, 2016
   education4:
 
 - name: Tjerk Benschop
