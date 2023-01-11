@@ -7,13 +7,13 @@
     display: NeuroImage Clinical 36(2)
   highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
+- title: "3D US-Based Evaluation and Optimization of Tumor Coverage for US-Guided Percutaneous Liver Thermal Ablation"
   image: BSCCOgap.png
-  description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+  description: Complete tumor coverage by the thermal ablation zone and with a safety margin (5 or 10 mm) is required to achieve the entire tumor eradication in liver tumor ablation procedures. However, 2D ultrasound (US) imaging has limitations in evaluating the tumor coverage by imaging only one or multiple planes, particularly for cases with multiple inserted applicators or irregular tumor shapes. In this paper, we evaluate the intra-procedural tumor coverage using 3D US imaging and investigate whether it can provide clinically needed information.
+  authors: S Xing, JC Romero, DW Cool, A Mujoomdar, ECS Chen, T Peters, A Fenster
   link:
-    url: https://arxiv.org/abs/2205.09740
-    display: arXiv:2205.09740 (2022)
+    url: https://ieeexplore.ieee.org/document/9800921
+    display: IEEE Transactions on Medical Imaging ( Volume: 41, Issue: 11, November 2022)
   highlight: 1
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
