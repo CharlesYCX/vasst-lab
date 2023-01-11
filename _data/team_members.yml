@@ -27,14 +27,6 @@
   education1: MESc - Master of Biomedical Engineering, Queen's University, Canada
   education2: BME - Bachelor of Biomedical Engineering, Merida, Mexico
 
-- name: <a href="https://ca.linkedin.com/in/patrick-carnahan?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F">Patrick Carnahan</a>
-  photo: Patrick_Carnahan.jpeg
-  info: PhD Student, started 2020
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: MEsc - Master of Engineering Science, Western University
-  education2: BSc - Computer Science, Western University
-
 - name: Shuwei Xing
   photo: Shuwei_Xing.jpeg
   info: PhD Student, started 2020
@@ -43,15 +35,24 @@
   education1: PhD Doctor of Philosophy - Biomedical Engineering, Western University, Canada, 2024
   education2: MSc - Biomedical Engineering, Tsinghua University, China, 2019
   education3: BSc - Electrical Engineering and Automation, Northeast Electric Power University, China, 2016
+
+- name: ( )
+  photo: 
+  info: PhD Student, started
+  email: shuwei
+  number_educ: 3
+  education1: PhD Doctor of Philosophy - Biomedical Engineering, Western University, Canada, 2024
+  education2: MSc - Biomedical Engineering, Tsinghua University, China, 2019
+  education3: BSc - Electrical Engineering and Automation, Northeast Electric Power University, China, 2016
   education4:
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
+- name: <a href="https://ca.linkedin.com/in/patrick-carnahan?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F">Patrick Carnahan</a>
+  photo: Patrick_Carnahan.jpeg
+  info: PhD Student, started 2020
+  email: ?
   number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
+  education1: MEsc - Master of Engineering Science, Western University
+  education2: BSc - Computer Science, Western University
   education3:
   education4:
 
