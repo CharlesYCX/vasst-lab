@@ -25,13 +25,13 @@
     display: Ultrasound-guided Image Guidance System for Cardiac Interventions
   highlight: 1
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Evaluating Diffusion Kurtosis Imaging Precision at Varying Gradient Strength in High Spatial Resolution 3T MRI"
+  image: fsaverage_space.png
+  description: Diffusion kurtosis imaging (DKI), an extension to diffusion tensor imaging (DTI), aims to improve quantification of the hindered/restricted diffusion pattern due to microstructural complexity in the brain. But in order to capture the non-Gaussian diffusion behaviour of water molecules in biological tissues, stronger gradients larger than those employed in standard diffusion weighted imaging (DWI) are required. Here, we explored the test-retest reliability of DKI derived metrics with respect to different gradient strength in a high spatial resolution dataset.
+  authors: L Kasa, R Haast, T Peters, AR Khan
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://www.biorxiv.org/content/10.1101/2020.07.10.197921v1
+    display: Journal of Magnetic Resonance Imaging (2020)
   highlight: 0
   news2:
 
