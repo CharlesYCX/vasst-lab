@@ -12,8 +12,10 @@ Dr. Peters' laboratory for <b>Virtual Augmentation and Simulation for Surgery an
 * <i>The brain<i>
 * <i>The beating heart<i>
 * <i>The liver, kidney, and prostate<i>
-
-
+  
+   
+   
+  
    Imaging Research Laboratories
    
    [Robarts Reseach Institute at Western University](https://www.robarts.ca/peterslab/)
