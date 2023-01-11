@@ -2,35 +2,35 @@
   photo: Dr_Terry_Peters.jpeg
   info: Professor, Robarts scientist
   email: tpeters@robarts.ca
-  number_educ: 5
+  number_educ: 4
   education1: Professor Medical Imaging, Medical Biophysics, Biomedical Engineering
-  education2: Fellow Canadian College of Physicists on Medicine, 1984
-  education3: Postdoctoral Fellowship, Biozentrum University of Basel, Switzerland, 1974
-  education4: PhD - Electrical Engineering, University of Canterbury, New Zealand, 1973
-  education5: BEng Hons - Bachelor of Engineering, University of Canterbury, New Zealand, 1969
+  education2: Postdoctoral Fellow - Biozentrum University of Basel, Switzerland, 1974
+  education3: PhD - Electrical Engineering, University of Canterbury, New Zealand, 1973
+  education4: BEng Hons - Bachelor of Engineering, University of Canterbury, New Zealand, 1969
 
 - name: <a href="https://chene.github.io">Dr. Elvis Chen</a>
   photo: Dr_Elvis_Chen.jpeg
-  info: Professor, Robarts scientist
+  info: Professor, Robarts scientist, since 2009
   email: chene@robarts.ca
-  number_educ: 4
+  number_educ: 5
   education1: Professor Biomedical Engineering, Medical Biophysics
-  education2: PhD - Computer Science, Queen’s University, Canada, 2007
-  education3: MSc - Master of Computer Science, Queen’s University, Canada
-  education4: BScH - Bachelor of Computer Science, Queen’s University, Canada
+  education2: Postdoctoral Fellow - Computer Science, Queen's University, Canada, 2009
+  education3: PhD - Computer Science, Queen’s University, Canada, 2007
+  education4: MSc - Master of Computer Science, Queen’s University, Canada
+  education5: BScH - Bachelor of Computer Science, Queen’s University, Canada
 
 - name: <a href="https://medicreate.cs.queensu.ca/all-students/joeana-cambranis-romero/">Joeana Cambranis Romero</a>
   photo: Joeana_Cambranis_Romero.jpeg
   info: PhD Student, started 2022
   email: jcambran@uwo.ca
   number_educ: 2
-  education1: MESc - Master of Biomedical Engineering
+  education1: MESc - Master of Biomedical Engineering, Western University, Canada, 2022
   education2: BME - Bachelor of Biomedical Engineering, Merida, Mexico
 
-- name: <a href="https://ca.linkedin.com/in/shuwei-xing-b2b0b9184">Shuwei Xing</a>
+- name: <a href="https://www.researchgate.net/profile/Shuwei-Xing">Shuwei Xing</a>
   photo: Shuwei_Xing.jpeg
   info: PhD Student, started 2020
-  email: shuwei
+  email: xshuwei@uwo.ca
   number_educ: 3
   education1: PhD - Biomedical Engineering, Western University, Canada, 2024
   education2: MSc - Biomedical Engineering, Tsinghua University, China, 2019
@@ -49,7 +49,7 @@
 - name: <a href="https://ca.linkedin.com/in/patrick-carnahan?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F">Patrick Carnahan</a>
   photo: Patrick_Carnahan.jpeg
   info: PhD Student, started 2020
-  email: pcarnahan
+  email: pcarnah@uwo.ca
   number_educ: 2
   education1: MEsc - Master of Engineering Science, Western University
   education2: BSc - Computer Science, Western University
