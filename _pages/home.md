@@ -8,19 +8,18 @@ permalink: /
 
 Dr. Peters' laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive neurosurgery is to resect or lesion the smallest volume of brain tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
 
+
 VASST Lab is focused on minimally invasive procedures as they are applied to:
  
  • The brain
- 
  • The beating heart
- 
  • The liver, kidney, and prostate
  
 
-Imaging Research Laboratories
-[Robarts Reseach Institute at Western University](https://www.robarts.ca/peterslab/)
-P.O. Box 5015 100 Perth Drive
-London, ON, Canada N6A 5K8
+ Imaging Research Laboratories
+ [Robarts Reseach Institute at Western University](https://www.robarts.ca/peterslab/)
+ P.O. Box 5015 100 Perth Drive
+ London, ON, Canada N6A 5K8
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
