@@ -22,14 +22,10 @@ We are addressing these problems through research aimed at integrating intra-ope
 
 ### Software
 
-**Echelon**
-
-Echelon is an image guidance platform based on the Atamai Viewer, specifically designed specifically for real-time intracardiac IGS.
+**Echelon** - An image guidance platform based on the Atamai Viewer, specifically designed specifically for real-time intracardiac IGS.
 A paired-down version of Echelon is licensed to NeoChord (under the name ‘NeoNav’) for use in their image guidance system.
 
-**Slicer**
-
-The Peters' group members make extensive use of 3D Slicer (http://www.slicer.org) for image segmentation, registration, fusion and processing. Applications include DTI analysis, image-guidance for cardiac and neurosurgery procedures, MR/ultrasound fusion, machine learning and more.
+**Slicer** - The Peters' group members make extensive use of 3D Slicer (http://www.slicer.org) for image segmentation, registration, fusion and processing. Applications include DTI analysis, image-guidance for cardiac and neurosurgery procedures, MR/ultrasound fusion, machine learning and more.
 
 
 # Research
