@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Dr. Peters' laboratory for <i><b>Virtual Augmentation and Simulation for Surgery and Therapy</b></i> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive neurosurgery is to resect or lesion the smallest volume of brain tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
+Dr. Peters' laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive neurosurgery is to resect or lesion the smallest volume of brain tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
 
 <i>VASST Lab is focused on minimally invasive procedures as they are applied to:</i>
 * <i>The brain</i>
@@ -65,11 +65,10 @@ London, ON, Canada N6A 5K8
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
 The VASST Lab is located at [Western University](https://www.uwo.ca/) in Ontario, Canada
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ *We are  looking for passionate new PhD students, Postdocs, and Master students to join the team* [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) *!*
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
