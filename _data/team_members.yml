@@ -14,24 +14,24 @@
   info: Assistant Professor, since 2009
   email: chene@robarts.ca
   number_educ: 3
-  education1: BScH - Computer Science, Queen’s University, Canada
-  education2: MSc - Computer Science, Queen’s University, Canada
+  education1: BScH - Bachelor of Computer Science, Queen’s University, Canada
+  education2: MSc - Master of Computer Science, Queen’s University, Canada
   education3: PhD - Computer Science, Queen’s University, Canada
 
 - name: <a href="https://medicreate.cs.queensu.ca/all-students/joeana-cambranis-romero/">Joeana Romero</a>
-  photo: Jiasen.png
-  info: PhD
-  email: niu@physics.leidenuniv.nl
+  photo: Joeana_Cambranis_Romero.jpeg
+  info: PhD Candidate
+  email: jcambran@uwo.ca
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: MESc - Master of Biomedical Engineering, Queen's University, Canada
+  education2: BME - Bachelor of Biomedical Engineering, Merida, Mexico
 
 - name: <a href="https://ca.linkedin.com/in/patrick-carnahan?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F">Patrick Carnahan</a>
   photo: Patrick_Carnahan.jpeg
-  info: Pursuing a PhD
+  info: PhD Candidate
   email: jwlee0421@postech.ac.kr
   number_educ: 2
-  education1: MEsc Master of Engineering Science, Western University
+  education1: MEsc - Master of Engineering Science, Western University
   education2: BSc - Computer Science, Western University
 
 - name: Shuwei Xing
