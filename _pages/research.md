@@ -15,6 +15,7 @@ The goal of any ideal image-guided surgery system is to report the position of a
 * The inability to visualize all of the required information in a single image
 * Tracking of instruments with respect to human organs
 * The surgeons’ interpretation of the information displayed
+
 We are addressing these problems through research aimed at integrating intra-operative 3-D ultrasound with MRI during surgical guidance, the development of electrophysiological atlases to guide the surgeon during deep brain surgery, the use of computer simulations to guide minimally invasive cardiac and abdominal surgery; the integration of endoscopic images with the previously acquired 3-D volumes; and the development of virtual-reality visualization systems that can present these composite images to the surgeon in the operating room in a simple and intuitive fashion.
 
 ## Technology
