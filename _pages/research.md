@@ -45,18 +45,13 @@ A paired-down version of Echelon is licensed to NeoChord (under the name ‘NeoN
 * z-bar ultrasound calibration phantom
 * carotid artery and jugular vein phantom for central-line procedures
 * spine phantom for spinal duratomy procedures and epidural injection procedures
-more...
-Rapid Prototyping
+and more...
 
-The VASST Lab has completely adopted 3D printing of plastic and metal as a method of decreasing the time required to iterate phantom and accessory design. Plastic printing includes an Objet30 Pro polyjet and an Ultimaker Extended Volume FDM using acrylic polymers, ABS and PLA. Metal printing includes a Sinterstation® Pro DM125 capable of additivly manufacturing stainless steel and cobalt chrome.
+**Rapid Prototyping** - The VASST Lab has completely adopted 3D printing of plastic and metal as a method of decreasing the time required to iterate phantom and accessory design. Plastic printing includes an Objet30 Pro polyjet and an Ultimaker Extended Volume FDM using acrylic polymers, ABS and PLA. Metal printing includes a Sinterstation® Pro DM125 capable of additivly manufacturing stainless steel and cobalt chrome.
 
-Position Tracking
+**Position Tracking** - An integral part of research in the lab. Magnetic and optical tracking are the most commonly used technologies including NDI Aurora, Polaris Vicra and Spectra, Ascension MTS and Micron trackers. We are also researching the incorporation of intertial measurement devices for aiding surgical tasks.
 
-Position tracking is an integral part of research in the lab. Magnetic and optical tracking are the most commonly used technologies including NDI Aurora, Polaris Vicra and Spectra, Ascension MTS and Micron trackers. We are also researching the incorporation of intertial measurement devices for aiding surgical tasks.
-
-Other
-
-We currently have several methods for displaying stereoscopic images and video. Currently in the lab are numerous high-definition flat-panel stereoscopic displays and a novel autostereoscopic monitor from Dimension Technologies Inc.
+**Other** - We currently have several methods for displaying stereoscopic images and video. Currently in the lab are numerous high-definition flat-panel stereoscopic displays and a novel autostereoscopic monitor from Dimension Technologies Inc.
 
 
 
