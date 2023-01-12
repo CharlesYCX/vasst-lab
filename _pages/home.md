@@ -34,22 +34,22 @@ London, ON, Canada N6A 5K8
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_virtual_augmentation.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neurosurgery.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_cardiac_surgery.jpeg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_mixed_reality.jpeg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neuro_collage.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_group.jpeg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
