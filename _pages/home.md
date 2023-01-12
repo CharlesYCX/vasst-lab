@@ -46,7 +46,7 @@ London, ON, Canada N6A 5K8
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_mixed_reality.jpeg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_Neuro_Collage.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neuro_collage.png" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_group.jpeg" alt="Slide 6" />
