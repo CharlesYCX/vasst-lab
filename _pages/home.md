@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b>     (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive neurosurgery is to resect or lesion the smallest volume of brain tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
+The <b>Laboratory for Virtual Augmentation and Simulation for Surgery and Therapy</b>     (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive neurosurgery is to resect or lesion the smallest volume of brain tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
 
 <i>VASST Lab is focused on minimally invasive procedures as they are applied to:</i>
 * <i>The brain</i>
