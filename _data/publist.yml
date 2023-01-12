@@ -35,24 +35,25 @@
   highlight: 1
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "A simple, realistic walled phantom for intravascular and intracardiac applications"
+  image: cadmodel_tissue_mimicking block.png
+  description: This work aims to develop a simple, anatomically and haptically realistic vascular phantom, compatible with intravascular and intracardiac ultrasound. The low-cost, dual-layered phantom bridges the gap between traditional wall-only and wall-less phantoms by showing both the vessel wall and surrounding tissue in ultrasound imaging. This phantom can better assist clinical tool training, testing of intravascular devices, blood flow studies, and validation of algorithms for intravascular and intracardiac surgical systems.
+  authors: H Nisar, J Moore, R Piazza, E Maneas, ECS Chen, T Peters
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://link.springer.com/article/10.1007/s11548-020-02201-3
+    display: International Journal of Computer Assisted Radiology and Surgery volume 15 (2020)
   highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+  news2:
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Towards electromagnetic tracking of J-tip guidewire: precision assessment of sensors during bending tests"
+  image: EM_field_patient_Jtip_guidewire.png
+  description: Electromagnetic image guidance systems have emerged as more secure methods to improve the performance of several catheter-based minimally invasive surgical procedures. Small sensors are incorporated within catheters and guidewires in order to track and guide in real-time their position and orientation with a reduced intra- procedural radiation exposure and contrast agent injections. One of the major limits of these systems is related to the unsuitable sensorization strategy for the J-tip guidewires, due to the structural constraints of the sensor coils available on the market. In this work we present preliminary results on a sensors bending test in static conditions to assess whether and when the precision of the sensor remains unchanged and/or deteriorates.
+  authors: R Piazza, H Nisar, J Moore, S Condino, M Ferrari, V Ferrari, TM Peters, ECS Chen
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11315/2549764/Towards-electromagnetic-tracking-of-J-tip-guidewire--precision-assessment/10.1117/12.2549764.full?SSO=1
+    display:  Proceedings Volume 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling (2020)
   highlight: 1
+  news2: Conference at SPIE Medical Imaging, 2020, Houston, Texas, United States </a>
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
@@ -63,7 +64,6 @@
     display: npj Quantum Materials 6, 7 (2021)
   highlight: 0
   news2:
-
 
 - title: "Observation of flat bands in twisted bilayer graphene"
   image: TBG_ARPES.png
