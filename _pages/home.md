@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b>     (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive neurosurgery is to resect or lesion the smallest volume of brain tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
+The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive neurosurgery is to resect or lesion the smallest volume of brain tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
 
 <i>VASST Lab is focused on minimally invasive procedures as they are applied to:</i>
 * <i>The brain</i>
@@ -14,7 +14,7 @@ The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery an
 * <i>The liver, kidney, and prostate</i>
 
 Imaging Research Laboratories
-[Robarts Reseach Institute at Western University](https://www.robarts.ca/peterslab/)
+[Robarts Reseach Institute at Western University](https://www.robarts.ca/)
 P.O. Box 5015 100 Perth Drive
 London, ON, Canada N6A 5K8
  
