@@ -48,7 +48,7 @@ A paired-down version of Echelon is licensed to NeoChord (under the name ‘NeoN
 more...
 Rapid Prototyping
 
-The Peters lab has completely adopted 3D printing of plastic and metal as a method of decreasing the time required to iterate phantom and accessory design. Plastic printing includes an Objet30 Pro polyjet and an Ultimaker Extended Volume FDM using acrylic polymers, ABS and PLA. Metal printing includes a Sinterstation® Pro DM125 capable of additivly manufacturing stainless steel and cobalt chrome.
+The VASST Lab has completely adopted 3D printing of plastic and metal as a method of decreasing the time required to iterate phantom and accessory design. Plastic printing includes an Objet30 Pro polyjet and an Ultimaker Extended Volume FDM using acrylic polymers, ABS and PLA. Metal printing includes a Sinterstation® Pro DM125 capable of additivly manufacturing stainless steel and cobalt chrome.
 
 Position Tracking
 
