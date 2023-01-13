@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Robarts](#robarts), [Western University](#western university), [Imaging Technology](#imaging), [Lab Team](#lab team)
+Jump to: [Robarts](#robarts), [Western University](#westernuniversity), [Imaging Technology](#imaging), [Lab Team](#labteam)
 
 
 ## Robarts
