@@ -13,7 +13,10 @@
   info: Undergraduate Student
   email: tkemper@uwo.ca
   number_educ: 1
-  education1: BSc - Bachelor, Western University, Canada, 2023
+  education1: BSc - Bachelor of Science - Honours Specialization in Medical Physics, Western University, Canada, 2023
+  education2: Research - VASST Lab summer researcher and honours thesis student
+  education3: 
+  education4: 
 
 - name: Ido Chen
   photo: Ido_Chen.jpeg
@@ -22,32 +25,32 @@
   number_educ: 1
   education1: BSc - Bachelor, Western University, Canada, 2023
 
-- name: Michelle Choi
-  photo: Michelle_Choi.jpeg
+- name: http://www.linkedin.com/in/michelliechoi Michellie Choi
+  photo: Michellie_Choi.jpeg
   info: Undergraduate Student
   email: mchoi252@uwo.ca
   number_educ: 1
   education1: BMSc - Bachelor of Medical Sciences, Western University, Canada, 2024
-  education2: 
-  education3: 
+  education2: Work - St. Joseph's Healthcare Centre, Department of Thoracic Surgery, 2020-2021
+  education3: University of Toronto Schools, 2013-2019
   education4: 
   
-- name: C
+- name: Connor Haines
   photo: 
   info: Undergraduate Student
   email: robarts.ca
   number_educ: 1
-  education1: BSc - Bachelor, Western University, Canada, 2026
+  education1: BSc - Bachelor, Western University, Canada, 2023
   education2: 
   education3: 
   education4: 
   
-- name: C
+- name: Charles Yuan
   photo: Charles_Yuan.jpeg
   info: Undergraduate Student
-  email: robarts.ca
+  email: cyuan58@uwo.ca
   number_educ: 1
   education1: BMSc - Bachelor of Medical Sciences, Western University, Canada, 2026
-  education2: 
+  education2: IB Bayview Secondary School, Richmond Hill, 2018-2022
   education3: 
   education4: 
