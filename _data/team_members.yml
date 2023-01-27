@@ -10,7 +10,7 @@
 
 - name: <a href="https://chene.github.io">Dr. Elvis Chen</a>
   photo: Dr_Elvis_Chen.jpeg
-  info: Professor, Robarts scientist, since 2009
+  info: Professor, Robarts scientist
   email: chene@robarts.ca
   number_educ: 5
   education1: Professor Medical Biophysics
@@ -53,7 +53,7 @@
   number_educ: 2
   education1: MESc – Biomedical Engineering, Western University, reclassified to a PhD candidate in 2020, expected graduation summer 2023
   education2: BSc - Computer Science, Western University, 2018
-  education3: Research Interests: Image processing of 3D ultrasound with a focus on cardiac ultrasound, and heart valve procedure planning.
+  education3: Research Interests - Image processing of 3D ultrasound with a focus on cardiac ultrasound, and heart valve procedure planning.
   education4:
 
 - name: Amber Mozes
