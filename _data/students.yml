@@ -45,6 +45,16 @@
   education3: 
   education4: 
   
+  - name: ( )
+  photo: 
+  info: Undergraduate Student
+  email: robarts.ca
+  number_educ: 1
+  education1: BSc - Bachelor, Western University, Canada, 2023
+  education2: 
+  education3: 
+  education4: 
+  
 - name: Charles Yuan
   photo: Charles_Yuan.jpeg
   info: Undergraduate Student
@@ -52,5 +62,15 @@
   number_educ: 1
   education1: BMSc - Bachelor of Medical Sciences, Western University, Canada, 2026
   education2: IB Bayview Secondary School, Richmond Hill, 2018-2022
+  education3: 
+  education4: 
+  
+  - name: ( )
+  photo: 
+  info: Undergraduate Student
+  email: robarts.ca
+  number_educ: 1
+  education1: BSc - Bachelor, Western University, Canada, 2023
+  education2: 
   education3: 
   education4: 
