@@ -41,7 +41,7 @@
   authors: H Nisar, J Moore, R Piazza, E Maneas, ECS Chen, T Peters
   link:
     url: https://link.springer.com/article/10.1007/s11548-020-02201-3
-    display: International Journal of Computer Assisted Radiology and Surgery volume 15 (2020)
+    display: International Journal of Computer Assisted Radiology and Surgery Volume 15 (2020)
   highlight: 1
   news2:
 
@@ -64,6 +64,16 @@
     display: Proceedings Volume 10951, Medical Imaging 2019 Image-Guided Procedures, Robotic Interventions, and Modeling (2019)
   highlight: 1
   news2: Conference at SPIE Medical Imaging 2019, San Diego, California, United States
+
+- title: "Endoscopic image enhancement with noise suppression"
+  image: enhanced_endoscopic_images.png
+  description:
+  authors: W Xia, ECS Chen, T Peters
+  link:
+    url: https://doi.org/10.1049/htl.2018.5067
+    display: Volume 5, Issue 5 Special Issue Papers from the 12th workshop on Augmented Environments for Computer-Assisted Interventions (2018)
+  highlight: 1
+  news2: 
 
 
 
