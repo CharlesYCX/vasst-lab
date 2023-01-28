@@ -55,15 +55,18 @@
   highlight: 1
   news2: Conference at SPIE Medical Imaging, 2020, Houston, Texas, United States
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
+- title: "A dynamic mitral valve simulator for surgical training and patient specific preoperative planning"
+  image: Mitral_Valve_Assembly.png
   description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+  authors: N Boone, J Moore, O Ginty, D Bainbridge, M Eskandari, T Peters
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
-  highlight: 0
-  news2:
+    url: http://dx.doi.org/10.1117/12.2509818
+    display: Proceedings Volume 10951, Medical Imaging 2019 Image-Guided Procedures, Robotic Interventions, and Modeling (2019)
+  highlight: 1
+  news2: Conference at SPIE Medical Imaging 2019, San Diego, California, United States
+
+
+
 
 - title: "Observation of flat bands in twisted bilayer graphene"
   image: TBG_ARPES.png
