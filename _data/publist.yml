@@ -56,7 +56,7 @@
   news2: Conference at SPIE Medical Imaging, 2020, Houston, Texas, United States
 
 - title: "A dynamic mitral valve simulator for surgical training and patient specific preoperative planning"
-  image: Mitral_Valve_Assembly.png
+  image: mitral_valve_assembly.png
   description: Mitral valve disease affects 2% of the Canadian population and 10% of those over the age of 75. Mitral valve regurgitation is a common valve disease often requiring surgical intervention for repair or replacement. Repair is often preferred over replacement, as it is associated with improved outcomes. Current mitral valve repair training is typically limited primarily to intraoperative experience. Additionally, the outcome of complex repair procedures is often unknown preoperatively, and is particularly true of new, off-pump repair techniques. Further challenges include identifying the most effective repair technique based on patient pathology, as multiple approaches exist. We present a hemodynamically accurate mitral valve phantom for testing previously validated patient specific pathological mitral valves.
   authors: N Boone, J Moore, O Ginty, D Bainbridge, M Eskandari, T Peters
   link:
