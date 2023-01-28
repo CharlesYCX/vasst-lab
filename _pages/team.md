@@ -116,13 +116,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education4 }} </li>
   {% endif %}
     
-  {% if member.number_educ == 3 %}
+  {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 4 %}
+  {% if member.number_educ == 6 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
