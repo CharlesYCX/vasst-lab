@@ -36,14 +36,14 @@
   education2: MSc - Biomedical Engineering, Tsinghua University, China, 2019
   education3: BSc - Electrical Engineering and Automation, Northeast Electric Power University, China, 2016
 
-- name: ( )
-  photo: 
-  info: PhD Student, started
-  email: shuwei
+- name: <a href="https://www.researchgate.net/profile/Daniel-Allen-25">Daniel Allen</a>
+  photo: Daniel_Allen.jpeg
+  info: PhD Student, started 2020
+  email: daniel
   number_educ: 3
-  education1: PhD - Biomedical Engineering, Western University, Canada, 2024
-  education2: MSc - Biomedical Engineering, Tsinghua University, China, 2019
-  education3: BSc - Electrical Engineering and Automation, Northeast Electric Power University, China, 2016
+  education1: PhD - Biomedical Engineering, Western University, expected graduation 2024
+  education2: MESc - Biomedical Engineering, Western University, 2020
+  education3: BSc - Computer Science, Western University, 2018
   education4:
 
 - name: <a href="https://www.researchgate.net/profile/Patrick-Carnahan-2">Patrick Carnahan</a>
