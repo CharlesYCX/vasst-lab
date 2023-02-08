@@ -15,7 +15,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Leads
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.leads %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
