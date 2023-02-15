@@ -141,7 +141,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Undergraduate Students
+## Graduate (PhD, Master) Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -206,7 +206,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
