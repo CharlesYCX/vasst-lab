@@ -1,13 +1,24 @@
 
 - name: <a href="https://www.researchgate.net/profile/Wenyao-Xia">Wenyao Xia</a>
   photo: Wenyao_Xia.jpeg
-  info: PhD Student, started 2020
+  info: Robarts Scientist
   email: robarts.ca
   number_educ: 3
   education1: PhD - Medical Biophysics
   education2: MESc - Electrical and Computer Engineering, University of Toronto, 2013
   education3: BSc - Engineering Science, University of Toronto, 2011
   education4:
+  
+- name: <a href="https://scholar.google.com/citations?user=flsXrBoAAAAJ&hl=en">Ryo Furukawa</a>
+  photo: Dr_Ryo_Furukawa.jpeg
+  info: Professor, Scientist
+  email: furukawa
+  number_educ: 3
+  education1: Professor, Faculty of Engineering, Kindai University, Japan
+  education2: PhD - Information Engineering, 奈良先端科学技術大学院大学 (Nara Institute of Science and Technology), 1997
+  education3: BSc - 京都大学 (Kyoto University), 1993
+  education4: Research Interests
+  education5:
 
 - name: <a href="https://medicreate.cs.queensu.ca/all-students/joeana-cambranis-romero/">Joeana Cambranis Romero</a>
   photo: Joeana_Cambranis_Romero.jpeg
