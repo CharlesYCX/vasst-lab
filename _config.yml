@@ -10,8 +10,8 @@ title: The VASST Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the VASST Lab.
-baseurl: ""
-url: "www.vasst.ca"
+baseurl: "vasst.ca"
+url: ""
 
 include:
   - .htaccess
