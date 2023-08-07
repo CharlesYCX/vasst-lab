@@ -8,11 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**The VASST Lab gladly welcomes new students and reseachers to our team.**
 
-We are  looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+We are looking for individuals with passion, hardwork, and grit. You will have the opportunity to work on research that has clinical relevance and healthcare applications that aim to enhance patient treatment. 
 
 ### Past open positions
 
