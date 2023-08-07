@@ -68,34 +68,34 @@ London, ON, Canada N6A 5K8
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="10" class="active"></li>
+        <li data-target="#carousel" data-slide-to="11"></li>
+        <li data-target="#carousel" data-slide-to="12"></li>
+        <li data-target="#carousel" data-slide-to="13"></li>
+        <li data-target="#carousel" data-slide-to="14"></li>
+        <li data-target="#carousel" data-slide-to="15"></li>
+        <li data-target="#carousel" data-slide-to="16"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_virtual_augmentation.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_virtual_augmentation.jpeg" alt="Slide 11" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neurosurgery.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neurosurgery.jpeg" alt="Slide 12" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_cardiac_surgery.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_cardiac_surgery.jpeg" alt="Slide 13" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_mixed_reality.jpeg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_mixed_reality.jpeg" alt="Slide 14" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neuro_collage.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neuro_collage.png" alt="Slide 15" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_group.jpeg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_group.jpeg" alt="Slide 16" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
