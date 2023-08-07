@@ -114,11 +114,10 @@ London, ON, Canada N6A 5K8
 
 The VASST Lab is located at [Western University](https://www.uwo.ca/) in Ontario, Canada
 
- *We are  looking for passionate new PhD students, Postdocs, and Master students to join the team* [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) *!*
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VASST_Lab_logo.jpeg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Western_University.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VASST_Lab_logo.jpeg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Western_University.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/robarts_logo.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
