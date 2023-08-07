@@ -27,7 +27,7 @@ The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery an
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_TerryPeters.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_ElvisChen.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_ElvisChen.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_Shuwei.jpg" alt="Slide 3" />
