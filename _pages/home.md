@@ -119,5 +119,5 @@ The VASST Lab is located at [Western University](https://www.uwo.ca/) in Ontario
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VASST_Lab_logo.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Western_University.png" style="width: 170px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/robarts_logo.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Schulich_medicine_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Schulich_medicine_logo.png" style="width: 130px">
 </figure>
