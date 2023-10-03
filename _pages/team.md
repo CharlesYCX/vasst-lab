@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **Welcome to the VASST Lab**
+ **Welcome to the VASST Lab!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
