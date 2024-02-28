@@ -1,11 +1,24 @@
 
-- name: <a href="https://www.researchgate.net/profile/Wenyao-Xia">Dr. Wenyao Xia</a>
+- name: <a href="https://scholar.google.com/citations?user=UcCOMvIAAAAJ&hl=en">Dr. Wenyao Xia</a>
   photo: Wenyao_Xia.jpeg
-  info: Postdoc Student, researcher at Robarts since 2016
+  info: Postdoc, Researcher at Robarts (since 2016)
   email: robarts.ca
   number_educ: 3
   education1: PhD - Medical Biophysics, Western University, Canada, 2021
   education2: MESc - Electrical and Computer Engineering, University of Toronto, Canada, 2013
   education3: BSc - Engineering Science, University of Toronto, Canada, 2011
   education4: 
-  
+
+- name: <a href="https://scholar.google.ca/citations?user=nHDy6_YAAAAJ&hl=en">Dr. Patrick Carnahan</a>
+  photo: Patrick_Carnahan.jpeg
+  info: Postdoc, Researcher at Robarts
+  email: pcarnah@uwo.ca
+  number_educ: 2
+  education1: PhD – Biomedical Engineering, Western University, Canada, 2023
+  education2: BSc - Computer Science, Western University, 2018
+  education3: Research Interests - Image processing of 3D ultrasound with a focus on cardiac ultrasound, and heart valve procedure planning.
+  education4: 
+  education5:
+  <!-- MESc – Biomedical Engineering, Western University, reclassified to a PhD candidate in 2020, expected graduation summer 2023 -->
+
+
