@@ -97,6 +97,26 @@
   education2:
   education3: 
   education4: 
+
+  - name: Jessica Lei
+  photo: Jessica_Lei.jpeg
+  info: Undergraduate Student
+  email: 
+  number_educ: 1
+  education1: BASc - Biomedical Engineering, University of Waterloo, Canada, 2027
+  education2: 
+  education3: 
+  education4: 
+  
+  - name: Arthur Wang
+  photo: Arthur_Wang.jpeg
+  info: Undergraduate Student
+  email: 
+  number_educ: 1
+  education1: BMSc - Bachelor of Medical Sciences, Western University, Canada, 2026
+  education2: 
+  education3: 
+  education4: 
   
 - name: Charles Yuan
   photo: Charles_Yuan.jpeg
