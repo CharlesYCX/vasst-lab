@@ -57,7 +57,7 @@
   education3: 
   education4: 
 
-  - name: Jessica Lei
+- name: Jessica Lei
   photo: Jessica_Lei.jpeg
   info: Undergraduate Student
   email: robarts.ca
@@ -67,7 +67,7 @@
   education3: 
   education4: 
   
-  - name: Arthur Wang
+- name: Arthur Wang
   photo: Arthur_Wang.jpeg
   info: Undergraduate Student
   email: robarts.ca
