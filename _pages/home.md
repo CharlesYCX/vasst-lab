@@ -6,11 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive surgery is to resect or lesion the smallest volume of tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
-
 <div style="text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/VASST_Lab_GroupPhoto_Apr2024.JPG" alt="VASST Lab Group Photo" style="max-width: 100%; height: auto;">
 </div>
+
+The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive surgery is to resect or lesion the smallest volume of tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
 
 <div markdown="0" id="carousel1" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -27,22 +27,22 @@ The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery an
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="carousel-item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_TerryPeters.jpg" alt="Slide 1" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_TerryPeters.jpg" alt="Slide 1" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_ElvisChen.jpeg" alt="Slide 2" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_ElvisChen.jpeg" alt="Slide 2" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_Shuwei.jpg" alt="Slide 3" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_Shuwei.jpg" alt="Slide 3" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_Dan.jpg" alt="Slide 4" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_Dan.jpg" alt="Slide 4" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_Joeana.jpg" alt="Slide 5" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_Joeana.jpg" alt="Slide 5" style="max-width: 100%; height: auto;" />
         </div>       
          <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_ImNO_OliviaEmmaCharles.jpg" alt="Slide 6" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_ImNO_OliviaEmmaCharles.jpg" alt="Slide 6" style="max-width: 100%; height: auto;" />
         </div>
     </div>
     <a class="carousel-control-prev" href="#carousel1" role="button" data-slide="prev">
@@ -79,22 +79,22 @@ London, ON, Canada N6A 5K8
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="carousel-item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_virtual_augmentation.jpeg" alt="Slide 1" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_virtual_augmentation.jpeg" alt="Slide 1" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neurosurgery.jpeg" alt="Slide 2" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neurosurgery.jpeg" alt="Slide 2" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_cardiac_surgery.jpeg" alt="Slide 3" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_cardiac_surgery.jpeg" alt="Slide 3" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_mixed_reality.jpeg" alt="Slide 4" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_mixed_reality.jpeg" alt="Slide 4" style="max-width: 100%; height: auto;" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neuro_collage.png" alt="Slide 5" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_neuro_collage.png" alt="Slide 5" style="max-width: 100%; height: auto;" />
         </div>       
          <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_group.jpeg" alt="Slide 6" class="d-block w-100" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_group.jpeg" alt="Slide 6" style="max-width: 100%; height: auto;" />
         </div>
     </div>
     <a class="carousel-control-prev" href="#carousel2" role="button" data-slide="prev">
