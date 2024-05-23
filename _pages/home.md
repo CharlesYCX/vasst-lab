@@ -8,6 +8,10 @@ permalink: /
 
 The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive surgery is to resect or lesion the smallest volume of tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
 
+<div style="text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/VASST_Lab_GroupPhoto_Apr2024.JPG" alt="VASST Lab Group Photo" style="max-width: 100%; height: auto;">
+</div>
+
 <div markdown="0" id="carousel1" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
