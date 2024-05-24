@@ -26,4 +26,12 @@
   education3: BSc - Computer Science, Western University, 2018
   education4:
 
+- name: Mateen Mirzaei
+  photo: Mateen_Mirzaei.jpeg
+  info: Master's Student, started 2023
+  email: mateen
+  number_educ: 2
+  education1: MSc - Medical Biophysics, Western University, expected graduation 2025
+  education2: BMSc - Medical Biophysics, Western University, 2023
+  education3:
 
