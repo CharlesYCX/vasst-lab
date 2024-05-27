@@ -13,7 +13,7 @@ permalink: /
 The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery and Therapy</b> (VASST Lab) is concerned with the development and validation of tools that allow surgeons to make efficient use of images, produced by sophisticated 3-D imaging systems, during surgical procedures. The objective of minimally-invasive surgery is to resect or lesion the smallest volume of tissue, causing the least trauma to the patient while achieving the desired therapeutic result.
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel1" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -46,11 +46,11 @@ The Robarts laboratory for <b>Virtual Augmentation and Simulation for Surgery an
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_images_slider_people2023_ImNO_OliviaEmmaCharles.jpg" alt="Slide 6" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel1" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel1" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -69,7 +69,7 @@ P.O. Box 5015 100 Perth Drive
 London, ON, Canada N6A 5K8
  
  
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel2" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="10" class="active"></li>
@@ -102,11 +102,11 @@ London, ON, Canada N6A 5K8
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/VASST_Lab_group.jpeg" alt="Slide 16" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel2" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel2" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
