@@ -1,3 +1,22 @@
+- title: "Physical replication and validation of mathematical mitral valve models"
+  image: parametric_mitral_valve.png
+  description: Accurate models of the mitral valve are highly valuable for studying the physiology of the heart and its various pathologies, as well as creating physical replicas for cardiac surgery training. Currently, heart simulator technologies are used which rely on patient-specific data to create valve replicas. Alternatively, mathematical models of the mitral valve have been developed for computational applications. However, there are no studies that mathematically model both the mitral valve’s leaflets and its saddle-shaped annulus in a single design together in current literature.
+  authors: Patrick Carnahan, Charles C. X. Yuan, John Moore, Gianluigi Bisleri, Daniel Bainbridge, Terry M. Peters, Elvis C. S. Chen
+  link:
+    url: https://doi.org/10.1117/12.3006494
+    display: Conference at SPIE Medical Imaging, 2024, San Diego, California, United States
+  highlight: 1
+
+- title: "X-ray image decomposition for improved magnetic navigation"
+  image: xray_lung_nodule.png
+  description: Existing field generators (FGs) for magnetic tracking cause severe image artifacts in X-ray images. While FG with radio-lucent components significantly reduces these imaging artifacts, traces of coils and electronic components may still be visible to trained professionals. In the context of X-ray-guided interventions using magnetic tracking, we introduce a learning-based approach to further reduce traces of field-generator components from X-ray images to improve visualization and image guidance.
+  authors: Wenyao Xia, Shuwei Xing, Uditha Jarayathne, Utsav Pardasani, Terry Peters & Elvis Chen
+  link:
+    url: https://doi.org/10.1007/s11548-023-02958-3
+    display: International Journal of Computer Assisted Radiology and Surgery
+  highlight: 1
+
+
 - title: "The Role of the Temporal Pole in Temporal Lobe Epilepsy: A Diffusion Kurtosis Imaging Study"
   image: processed_tracts.png
   description: This study aimed to evaluate the use of diffusion kurtosis imaging (DKI) to detect microstructural abnormalities within the temporal pole (TP) and its temporopolar cortex in temporal lobe epilepsy (TLE) patients. DKI quantitative maps were obtained from fourteen lesional TLE and ten non-lesional TLE patients, along with twenty-three healthy controls. Data collected included mean (MK); radial (RK) and axial kurtosis (AK); mean diffusivity (MD) and axonal water fraction (AWF). Automated fiber quantification (AFQ) was used to quantify DKI measurements along the inferior longitudinal (ILF) and uncinate fasciculus (Unc). ILF and Unc tract profiles were compared between groups and tested for correlation with disease duration.
