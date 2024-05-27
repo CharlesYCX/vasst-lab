@@ -1,8 +1,8 @@
 
 - name: <a href="https://scholar.google.ca/citations?hl=en&user=d2ayhAoAAAAJ">Dr. Terry Peters</a>
   photo: Dr_Terry_Peters.jpeg
-  info: Professor, Robarts scientist
-  email: tpeters@robarts.ca (https://www.robarts.ca/peterslab/people/principal_investigator.html)
+  info: <a href="https://www.robarts.ca/peterslab/people/principal_investigator.html">Professor, Robarts scientist</a>
+  email: tpeters@robarts.ca 
   number_educ: 4
   education1: Professor Medical Imaging, Medical Biophysics, Biomedical Engineering
   education2: Postdoctoral Fellow - Biozentrum University of Basel, Switzerland, 1974
@@ -11,8 +11,8 @@
 
 - name: <a href="https://scholar.google.ca/citations?user=P1tV0zIAAAAJ&hl=en">Dr. Elvis Chen</a>
   photo: Dr_Elvis_Chen.png
-  info: Professor, Robarts scientist
-  email: chene@robarts.ca (https://chene.github.io)
+  info: <a href="https://chene.github.io">Professor, Robarts scientist</a>
+  email: chene@robarts.ca
   number_educ: 5
   education1: Professor Medical Biophysics
   education2: Postdoctoral Fellow - Computer Science, Queen's University, Canada, 2009
