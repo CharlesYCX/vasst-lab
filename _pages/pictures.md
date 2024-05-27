@@ -72,7 +72,7 @@ From the [group of ](http://davisgroup.lassp.cornell.edu).
 </figure>
 
 ## Lab Team
-From the [group of ](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
+From the [VASST Lab](http://dqmp.unige.ch/baumberger/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
