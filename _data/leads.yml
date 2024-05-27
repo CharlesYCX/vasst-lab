@@ -1,18 +1,18 @@
 
-- name: <a href="https://www.robarts.ca/peterslab/people/principal_investigator.html">Dr. Terry Peters</a>
+- name: <a href="https://scholar.google.ca/citations?hl=en&user=d2ayhAoAAAAJ">Dr. Terry Peters</a>
   photo: Dr_Terry_Peters.jpeg
   info: Professor, Robarts scientist
-  email: tpeters@robarts.ca
+  email: tpeters@robarts.ca (https://www.robarts.ca/peterslab/people/principal_investigator.html)
   number_educ: 4
   education1: Professor Medical Imaging, Medical Biophysics, Biomedical Engineering
   education2: Postdoctoral Fellow - Biozentrum University of Basel, Switzerland, 1974
   education3: PhD - Electrical Engineering, University of Canterbury, New Zealand, 1973
   education4: BEng Hons - Bachelor of Engineering, University of Canterbury, New Zealand, 1969
 
-- name: <a href="https://chene.github.io">Dr. Elvis Chen</a>
-  photo: Dr_Elvis_Chen.jpeg
+- name: <a href="https://scholar.google.ca/citations?user=P1tV0zIAAAAJ&hl=en">Dr. Elvis Chen</a>
+  photo: Dr_Elvis_Chen.png
   info: Professor, Robarts scientist
-  email: chene@robarts.ca
+  email: chene@robarts.ca (https://chene.github.io)
   number_educ: 5
   education1: Professor Medical Biophysics
   education2: Postdoctoral Fellow - Computer Science, Queen's University, Canada, 2009
