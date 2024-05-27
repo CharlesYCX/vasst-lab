@@ -16,6 +16,14 @@
     display: International Journal of Computer Assisted Radiology and Surgery, 2023
   highlight: 1
 
+- title: "Development and evaluation of an open-source virtual reality C-Arm simulator"
+  image: c_arm_simulator_virtual_scene.jpeg
+  description: C-Arm positioning for interventional spine procedures is often associated with a steep learning curve. This task requires mentally reconstructing 3D surgical tools and patient anatomy from a 2D X-ray image, which is non-trivial and acquired through years of experience. Standard training via apprenticeship-based programs must be limited due to the unnecessary exposure to ionizing radiation. To this end, we propose a Virtual Reality C-Arm simulator for interventional spine procedure training. We implemented the simulator as an open-source module in Slicer, and evaluated its efficacy through a user study, recruiting medical residents and expert clinicians. Users showed an overall significant improvement in C-Arm placement with regards to angular accuracy (mean ~2 degree improvement), and total procedure time (mean 11 minutes less time).
+  authors: Daniel R. Allen, Collin Clarke, Terry M. Peters, Elvis C.S Chen
+  link:
+    url: https://doi.org/10.1080/21681163.2022.2152374
+    display: Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2022
+  highlight: 1
 
 - title: "The Role of the Temporal Pole in Temporal Lobe Epilepsy: A Diffusion Kurtosis Imaging Study"
   image: processed_tracts.png
