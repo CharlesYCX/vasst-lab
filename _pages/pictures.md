@@ -14,12 +14,12 @@ From the [VASST Lab](https://www.robarts.ca/peterslab/people/index.html).
 
 #### Taylor Dinner - November 2023 - VASST Lab Group Photo
 <figure>
-<img src="https://www.vasst.ca/images/TaylorDinner_Nov2023_VASST_Lab_GroupPhoto.jpeg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/TaylorDinner_Nov2023_VASST_Lab_GroupPhoto.jpeg" width="60%">
 </figure>
 
 #### Taylor Dinner - November 2024 VASST Lab Group Photo
 <figure>
-<img src="https://www.vasst.ca/images/TaylorDinner_Nov2024_VASST_Lab_GroupPhoto.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/TaylorDinner_Nov2024_VASST_Lab_GroupPhoto.jpg" width="60%">
 </figure>
 
 
