@@ -9,6 +9,23 @@ permalink: /pictures/
 Jump to: [Robarts](#robarts), [Western University](#western), [Imaging Technology](#imaging), [Lab Team](#lab)
 
 
+## Lab Team
+From the [VASST Lab](http://dqmp.unige.ch/baumberger/).
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
+</figure>
+
+#### Taylor Dinner - November 2023 - VASST Lab Group Photo
+<figure>
+<img src="https://www.vasst.ca/images/TaylorDinner_Nov2023_VASST_Lab_GroupPhoto.jpg" width="60%">
+</figure>
+
+#### Taylor Dinner - November 2024 VASST Lab Group Photo
+<figure>
+<img src="https://www.vasst.ca/images/TaylorDinner_Nov2024_VASST_Lab_GroupPhoto.jpg" width="60%">
+</figure>
+
+
 ## Robarts
 
 #### Welcome to the [Robarts Research Institute](https://www.youtube.com/watch?v=SbyUp5ar1A0)
@@ -71,8 +88,3 @@ From the [group of ](http://davisgroup.lassp.cornell.edu).
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
 </figure>
 
-## Lab Team
-From the [VASST Lab](http://dqmp.unige.ch/baumberger/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
