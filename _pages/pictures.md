@@ -10,7 +10,7 @@ Jump to: [Robarts](#robarts), [Western University](#western), [Imaging Technolog
 
 
 ## Lab Team
-From the [VASST Lab](http://dqmp.unige.ch/baumberger/).
+From the [VASST Lab](https://www.robarts.ca/peterslab/people/index.html).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
