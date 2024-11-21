@@ -11,13 +11,10 @@ Jump to: [Robarts](#robarts), [Western University](#western), [Imaging Technolog
 
 ## Lab Team
 From the [VASST Lab](https://www.robarts.ca/peterslab/people/index.html).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
 
 #### Taylor Dinner - November 2023 - VASST Lab Group Photo
 <figure>
-<img src="https://www.vasst.ca/images/TaylorDinner_Nov2023_VASST_Lab_GroupPhoto.jpg" width="60%">
+<img src="https://www.vasst.ca/images/TaylorDinner_Nov2023_VASST_Lab_GroupPhoto.jpeg" width="60%">
 </figure>
 
 #### Taylor Dinner - November 2024 VASST Lab Group Photo
